@@ -1,0 +1,40 @@
+{
+    "productos": [
+        {
+            "nombre": "botines",
+            "precio": 500
+        },
+        {
+            "nombre": "pelota de fútbol",
+            "precio": 300
+        },
+        {
+            "nombre": "raqueta de tenis",
+            "precio": 1200
+        },
+        {
+            "nombre": "guantes de boxeo",
+            "precio": 800
+        },
+        {
+            "nombre": "bicicleta de montaña",
+            "precio": 4500
+        },
+        {
+            "nombre": "balón de baloncesto",
+            "precio": 400
+        },
+        {
+            "nombre": "patines",
+            "precio": 1500
+        },
+        {
+            "nombre": "palo de hockey",
+            "precio": 700
+        },
+        {
+            "nombre": "cinta de correr",
+            "precio": 8000
+        }
+    ]
+}
