@@ -36,6 +36,8 @@ const crearCard =(data)=>{
     data.forEach(prod => {
         templateCard.querySelector('h5').textContent = prod.nombre
         templateCard.querySelector('p').textContent = prod.precio
+        templateCard.querySelector('img').src = prod.img
+        templateCard.querySelector('img').alt = prod.nombre
         templateCard.querySelector('button').dataset.id = prod.id
 
         const clone = templateCard.cloneNode(true)
